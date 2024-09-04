@@ -12,7 +12,7 @@ After years of dominating the locomotive industry globally, AtliQ Motors is tryi
 ## Solution
 
 In this project we mainly find out: What are the ideal states for setup a plant? What are the required modifications for e-vehicles and what are the customer adoption rates year by year? What are the state govt. & central govt. Scheme to advance in this sector as environment is the global concern for all.
-After that we will analyse how AtliQ Motors should carry out its operation in fully nurishing the Indian e-vehicle market.
+After that we will analyse how AtliQ Motors should carry out its operation in fully nourishing the Indian e-vehicle market.
 
 ## Tools Used
 
